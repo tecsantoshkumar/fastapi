@@ -1,2 +1,7 @@
 fastapi
+pydantic
+pycryptodome
+binascii
+base64
+tapi
 uvicorn
